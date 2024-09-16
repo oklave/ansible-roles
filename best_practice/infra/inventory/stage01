@@ -1,0 +1,3 @@
+[db]
+                    
+stage01 ansible_host=stage01 ansbible_user=root

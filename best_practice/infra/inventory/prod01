@@ -1,0 +1,3 @@
+[web]
+
+prod01 ansible_host=prod01 ansible_user=root`
